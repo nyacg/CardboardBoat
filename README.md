@@ -18,7 +18,7 @@ In the end we made this:
 
 ![alt text][group_photo]
 
-[group_photo]: https://github.com/nyacg/CardboardBoat/blob/master/13418373_1107695585970162_2915351735256742767_o.jpg "The Result"
+[group_photo]: https://github.com/nyacg/CardboardBoat/blob/master/Images/cam_group.jpg "The Result"
 
 
 
